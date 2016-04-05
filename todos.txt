@@ -1,0 +1,2 @@
+todo:
+De mutat din PM.Platform.Entities BuildResult si Component(doar ce e nevoie). Inherit in pm.platform.entities pe componentu meu
